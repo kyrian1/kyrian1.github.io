@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MoAziz123.github.io.git/static/css/main.7b191f5a.chunk.css",
+    "main.css": "/MoAziz123.github.io.git/static/css/main.1c7d9988.chunk.css",
     "main.js": "/MoAziz123.github.io.git/static/js/main.3fc728f4.chunk.js",
     "main.js.map": "/MoAziz123.github.io.git/static/js/main.3fc728f4.chunk.js.map",
     "runtime-main.js": "/MoAziz123.github.io.git/static/js/runtime-main.fac25394.js",
@@ -9,10 +9,10 @@
     "static/js/2.d0aab548.chunk.js": "/MoAziz123.github.io.git/static/js/2.d0aab548.chunk.js",
     "static/js/2.d0aab548.chunk.js.map": "/MoAziz123.github.io.git/static/js/2.d0aab548.chunk.js.map",
     "index.html": "/MoAziz123.github.io.git/index.html",
-    "precache-manifest.5a65f2c9fd4343f94c0e2c22339c3fbe.js": "/MoAziz123.github.io.git/precache-manifest.5a65f2c9fd4343f94c0e2c22339c3fbe.js",
+    "precache-manifest.0d861f7645f709d64156958e482cfd90.js": "/MoAziz123.github.io.git/precache-manifest.0d861f7645f709d64156958e482cfd90.js",
     "service-worker.js": "/MoAziz123.github.io.git/service-worker.js",
     "static/css/2.e3d61e81.chunk.css.map": "/MoAziz123.github.io.git/static/css/2.e3d61e81.chunk.css.map",
-    "static/css/main.7b191f5a.chunk.css.map": "/MoAziz123.github.io.git/static/css/main.7b191f5a.chunk.css.map",
+    "static/css/main.1c7d9988.chunk.css.map": "/MoAziz123.github.io.git/static/css/main.1c7d9988.chunk.css.map",
     "static/js/2.d0aab548.chunk.js.LICENSE.txt": "/MoAziz123.github.io.git/static/js/2.d0aab548.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MoAziz123.github.io.git/static/media/Rokkitt-Medium.f6ce3558.ttf",
     "static/media/csharplogo.png": "/MoAziz123.github.io.git/static/media/csharplogo.51fd3720.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.fac25394.js",
     "static/css/2.e3d61e81.chunk.css",
     "static/js/2.d0aab548.chunk.js",
-    "static/css/main.7b191f5a.chunk.css",
+    "static/css/main.1c7d9988.chunk.css",
     "static/js/main.3fc728f4.chunk.js"
   ]
 }

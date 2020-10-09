@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d3abd778de8dfd31335862c707c3e64",
+    "revision": "cda4d8b8ca280f16af8d8c712a850abc",
     "url": "/MoAziz123.github.io.git/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoAziz123.github.io.git/static/css/2.e3d61e81.chunk.css"
   },
   {
-    "revision": "b7dd0b590db998918393",
-    "url": "/MoAziz123.github.io.git/static/css/main.7b191f5a.chunk.css"
+    "revision": "9d3d3c65d25b24c1b4ba",
+    "url": "/MoAziz123.github.io.git/static/css/main.1c7d9988.chunk.css"
   },
   {
     "revision": "42cfe94e9c536f4595bf",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MoAziz123.github.io.git/static/js/2.d0aab548.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7dd0b590db998918393",
+    "revision": "9d3d3c65d25b24c1b4ba",
     "url": "/MoAziz123.github.io.git/static/js/main.3fc728f4.chunk.js"
   },
   {
