@@ -13,7 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "homepage":"http://MoAziz123.github.io/MoAziz123.github.io",
+  "homepage":"http://MoAziz123.github.io/portfolio-site",
   "scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
