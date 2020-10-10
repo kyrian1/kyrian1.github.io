@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MoAziz123.github.io/static/css/main.0b43ea94.chunk.css",
-    "main.js": "/MoAziz123.github.io/static/js/main.3af22874.chunk.js",
-    "main.js.map": "/MoAziz123.github.io/static/js/main.3af22874.chunk.js.map",
+    "main.js": "/MoAziz123.github.io/static/js/main.44341be9.chunk.js",
+    "main.js.map": "/MoAziz123.github.io/static/js/main.44341be9.chunk.js.map",
     "runtime-main.js": "/MoAziz123.github.io/static/js/runtime-main.3cb710bb.js",
     "runtime-main.js.map": "/MoAziz123.github.io/static/js/runtime-main.3cb710bb.js.map",
     "static/css/2.c4466853.chunk.css": "/MoAziz123.github.io/static/css/2.c4466853.chunk.css",
     "static/js/2.d0aab548.chunk.js": "/MoAziz123.github.io/static/js/2.d0aab548.chunk.js",
     "static/js/2.d0aab548.chunk.js.map": "/MoAziz123.github.io/static/js/2.d0aab548.chunk.js.map",
     "index.html": "/MoAziz123.github.io/index.html",
-    "precache-manifest.cd6bf5a9cb0cf758f072b289c9a4e3ac.js": "/MoAziz123.github.io/precache-manifest.cd6bf5a9cb0cf758f072b289c9a4e3ac.js",
+    "precache-manifest.dbdf4c4919786d457b8357d6f1fafe61.js": "/MoAziz123.github.io/precache-manifest.dbdf4c4919786d457b8357d6f1fafe61.js",
     "service-worker.js": "/MoAziz123.github.io/service-worker.js",
     "static/css/2.c4466853.chunk.css.map": "/MoAziz123.github.io/static/css/2.c4466853.chunk.css.map",
     "static/css/main.0b43ea94.chunk.css.map": "/MoAziz123.github.io/static/css/main.0b43ea94.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.c4466853.chunk.css",
     "static/js/2.d0aab548.chunk.js",
     "static/css/main.0b43ea94.chunk.css",
-    "static/js/main.3af22874.chunk.js"
+    "static/js/main.44341be9.chunk.js"
   ]
 }
