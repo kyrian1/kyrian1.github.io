@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-site",
+  "name": "",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,16 +7,17 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^6.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-fontawesome": "^1.7.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^5.0.1"
   },
-  "homepage":"http://mo-001.github.io/",
+  "homepage": "http://mo-001.github.io/",
   "scripts": {
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

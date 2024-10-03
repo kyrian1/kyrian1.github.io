@@ -1,6 +1,6 @@
 import React from 'react'
 import FontAwesome from 'react-fontawesome'
-import {Redirect} from 'react-router-dom';
+import {Redirect, redirect} from 'react-router-dom';
 /**
  * @name - MainPage
  * @description - loads the main page into the box div
@@ -23,6 +23,7 @@ export default class MainPage extends React.Component{
     handleRedirect=(link)=>
     {
         this.setState({redirect:link})
+        console.log(link)
        
     }
     render(){
